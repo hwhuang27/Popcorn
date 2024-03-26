@@ -12,8 +12,11 @@
   "dependencies": {
     "@aws-sdk/client-dynamodb": "^3.540.0",
     "@langchain/community": "^0.0.43",
+    "@langchain/openai": "^0.0.23",
     "discord.js": "^14.14.1",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "langchain": "^0.1.30",
+    "openai": "^4.29.2"
   },
   "devDependencies": {
     "eslint": "^8.57.0",
